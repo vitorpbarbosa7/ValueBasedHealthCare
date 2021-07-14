@@ -1,0 +1,4 @@
+denominador,numerador,Frequência,P.value,Qtd_1_Denom,Qtd_0_Demon,D0N0,D0N1,D1N0,D1N1
+Lombalgia,RMDQ3_v1,0.387096774,0.041766153,62,56,44,12,38,24
+Dor nas costas,RMDQ6_v1,0.298387097,0.041292104,124,67,56,11,87,37
+Dor nas pernas,RMDQ19_v1,0.215384615,0.041376392,65,123,110,13,51,14

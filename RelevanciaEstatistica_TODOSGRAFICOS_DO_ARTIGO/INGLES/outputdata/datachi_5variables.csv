@@ -1,0 +1,13 @@
+,denominador,numerador,Frequência,P.value,Qtd_1_Denom,Qtd_0_Demon,D0N0,D0N1,D1N0,D1N1
+163,Low back pain,Back pain,0.918032787,8.15E-07,61,67,32,35,5,56
+152,Unemployed,Back pain,0.9,0.000319402,30,160,72,88,3,27
+120,Low back pain,Painkillers,0.85483871,3.44E-05,62,68,33,35,9,53
+117,Leg pain,Painkillers,0.84375,0.000516846,64,134,54,80,10,54
+156,Leg pain,Back pain,0.84375,5.86E-06,64,139,68,71,10,54
+116,Back pain,Painkillers,0.81147541,6.20E-07,122,78,41,37,23,99
+670,Leg pain,Low back pain,0.727272727,1.12E-06,55,72,51,21,15,40
+195,Low back pain,Leg pain,0.655737705,1.12E-06,61,66,51,15,21,40
+2091,Leg pain,DN4 - Burning,0.639344262,0.000252532,61,129,83,46,22,39
+643,Low back pain,D29,0.629032258,1.38E-13,62,74,71,3,23,39
+30,Unemployed,Spine surgery,0.625,0.015653846,24,156,99,57,9,15
+669,Back pain,Low back pain,0.615384615,8.15E-07,91,37,32,5,35,56

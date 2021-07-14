@@ -1,0 +1,30 @@
+﻿demonimador,numerador,Frequência,Qtd_0_Denom,Qtd_1_Denom,D0N0,D0N1,D1N0,D1N1
+Desempregado,Dor nas costas,0.9,160,30,72,88,3,27
+Cirurgia na coluna,Livrar-se da dor nas costas,0.86,63,50,8,55,7,43
+Desempregado,Livrar-se da dor nas costas,0.846153846,92,26,10,82,4,22
+Cirurgia na coluna,Masculino,0.708860759,134,79,49,85,23,56
+Cirurgia na coluna,Analgésicos,0.684210526,122,76,39,83,24,52
+Desempregado,Analgésicos,0.642857143,161,28,54,107,10,18
+Cirurgia na coluna,Dor nas costas,0.64,115,75,48,67,27,48
+Desempregado,Cirurgia na coluna,0.625,156,24,99,57,9,15
+Desempregado,Masculino,0.6,167,30,57,110,12,18
+Desempregado,RMDQ2_v1,0.576923077,152,26,95,57,11,15
+Desempregado,Solteiro,0.538461538,160,26,95,65,12,14
+Desempregado,Lombalgia,0.52,105,25,56,49,12,13
+Desempregado,RMDQ1_v1,0.5,152,26,98,54,13,13
+Cirurgia na coluna,Lombalgia,0.490909091,63,55,36,27,28,27
+Desempregado,Outra Doença,0.466666667,161,30,105,56,16,14
+Cirurgia na coluna,Solteiro,0.430555556,106,72,64,42,41,31
+Cirurgia na coluna,Dor_pernas,0.410958904,113,73,89,24,43,30
+Cirurgia na coluna,Casado/Amasiado,0.402777778,106,72,53,53,43,29
+Cirurgia na coluna,RMDQ1_v1,0.397058824,126,68,78,48,41,27
+Cirurgia na coluna,RMDQ2_v1,0.397058824,126,68,75,51,41,27
+Desempregado,Fuma,0.392857143,157,28,123,34,17,11
+Cirurgia na coluna,Outra Doença,0.373333333,114,75,69,45,47,28
+Cirurgia na coluna,RMDQ3_v1,0.347826087,127,69,79,48,45,24
+Desempregado,Casado/Amasiado,0.346153846,160,26,87,73,17,9
+Desempregado,RMDQ14_v1,0.346153846,153,26,121,32,17,9
+Desempregado,Dor_pernas,0.333333333,158,30,108,50,20,10
+Cirurgia na coluna,RMDQ5_v1,0.31884058,127,69,84,43,47,22
+Cirurgia na coluna,Fuma,0.314285714,108,70,96,12,48,22
+Desempregado,RMDQ3_v1,0.307692308,154,26,93,61,18,8

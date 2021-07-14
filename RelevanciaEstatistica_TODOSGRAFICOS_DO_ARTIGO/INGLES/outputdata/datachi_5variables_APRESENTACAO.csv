@@ -1,0 +1,13 @@
+;denominador;numerador;Frequência;P.value;Qtd_1_Denom;Qtd_0_Demon;D0N0;D0N1;D1N0;D1N1
+163;Dor na lombar;Dor nas costas;0.918032787;8.15E-07;61;67;32;35;5;56
+152;Desempregado;Dor nas costas;0.9;0.000319402;30;160;72;88;3;27
+120;Dor na lombar;Analgésicos;0.85483871;3.44E-05;62;68;33;35;9;53
+117;Dor nas pernas;Analgésicos;0.84375;0.000516846;64;134;54;80;10;54
+156;Dor nas pernas;Dor nas costas;0.84375;5.86E-06;64;139;68;71;10;54
+116;Dor nas costas;Analgésicos;0.81147541;6.20E-07;122;78;41;37;23;99
+670;Dor nas pernas;Dor na lombar;0.727272727;1.12E-06;55;72;51;21;15;40
+195;Dor na lombar;Dor nas pernas;0.655737705;1.12E-06;61;66;51;15;21;40
+2091;Dor nas pernas;DN4 - Queimação;0.639344262;0.000252532;61;129;83;46;22;39
+643;Dor na lombar;D29;0.629032258;1.38E-13;62;74;71;3;23;39
+30;Desempregado;Cirurgia na coluna;0.625;0.015653846;24;156;99;57;9;15
+669;Dor nas costas;Dor na lombar;0.615384615;8.15E-07;91;37;32;5;35;56

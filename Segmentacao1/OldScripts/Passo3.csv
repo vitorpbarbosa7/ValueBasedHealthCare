@@ -1,0 +1,241 @@
+﻿ID,IDADE,Sexo,Estado_Civil,Profissao,Estado_nascimento,Se_SP_haquantosanos,Fuma,Cirurgia_coluna,QtCirColuna,CirColHospit,Aposentado,Trabalho_Cansativo,Desempregado_atualmente,Licenca_Medica,Licenca_Tempo,Aposentado_Invalidez,Tempo_dor_costas,Tempo_dor_pernas,Analgésicos,Se_SIM_quais_medicamentos,OutraDoenca,Se_SIM_quais_doenças,Andar_velocidade,Dor_costas,Dor_costas_VAS,Dor_pernas,Dor_pernas_VAS,Qual_sintoma,Retornar_trabalho
+1,52,1,2,Empresária,Curitiba,23,1,1,,,0,3,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+2,35,1,2,Bancária,São Paulo,,1,1,,,0,0,0,1,,0,3,0,1,Pregabalina,1,Endometriose,4,1,6,0,0,0,0
+3,35,1,2,Recepcionista,Guarulhos,,1,0,3,,0,0,1,1,1,0,4,4,1,"Tramadol, Amitriptilina, clopromazepina",1,HAS,1,1,10,1,10,1,1
+4,78,1,6,Aposentada,Japão,30,1,0,1,,1,0,0,1,,0,4,0,1,"tramal, lisador",1,"DM, Cistite Cronica",1,1,4,0,0,1,1
+5,48,2,1,Contabilista,Milão-Itália,12,1,1,0,,0,3,0,1,,0,4,0,1,citoneurin,0,,4,1,7,0,0,1,0
+6,42,2,5,Comerciante,São Paulo,,0,1,0,,0,1,0,1,,0,1,0,0,,0,,4,0,0,0,0,0,0
+7,40,2,2,Desiner,São Paulo,,0,1,,,1,0,0,1,,0,2,0,1,lirica,0,,4,1,2,0,0,1,1
+8,62,1,1,Enfermeira,São Paulo,,1,0,2,,1,0,1,1,2,0,4,0,1,"tramal, gabapentina",0,,2,1,5,0,0,1,1
+9,24,1,1,Tec. Enfermagem,São Paulo,,1,1,,,0,0,0,1,,0,0,0,,,0,,1,1,3,0,0,0,0
+10,38,2,1,Assessorista,São Paulo,,1,1,,,0,4,0,1,,0,3,0,1,"Pregabalina, Tramal, amitriptilina",0,,1,0,0,0,0,0,0
+11,51,1,2,Fiscal de prevenção de perdas,São Paulo,,1,0,2,Leforte,0,0,0,1,,1,4,4,1,"xarelto, tramal",1,"trombose, e trombolismo pulmonar",1,1,8,1,7,1,1
+12,42,1,2,Operadora de maquina de corte,São Paulo,,1,0,1,Leforte,0,0,1,1,,1,4,4,1,"tramal, gabapentina",0,,1,1,1,1,10,1,1
+13,59,1,2,Comerciante,São Paulo,,1,0,1,Leforte,0,1,0,1,,0,3,3,1,"tramal, amitriptilina",0,,1,0,0,0,0,1,0
+14,56,1,2,Assist. de Faturamento,São Paulo,,1,0,1,São Luiz (Sao caetano),0,4,0,1,,0,3,3,1,dorflex,0,,3,1,6,1,7,1,1
+15,56,1,5,Pedagoga,São Paulo,,1,1,,,0,0,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,1
+16,78,1,2,Dona de casa,Pernambuco,40,1,1,,,1,0,0,1,,0,4,0,0,,1,"artrite, artrose",2,1,6,0,0,1,1
+17,69,1,2,Recepcionista,Japão,13,1,1,,,1,0,0,1,,0,4,0,1,"novalgina, nimesulida",1,"Artrose, DM, HAS",3,1,8,0,0,1,0
+18,61,1,6,Assistente,São Paulo,,1,1,,,1,0,0,1,,1,2,0,1,baclofeno,1,HAS,1,0,0,1,7,1,1
+19,37,1,2,Enfermeira,Porto Alegre,6,1,1,,,0,0,0,1,,0,2,0,1,toragezic,0,,4,1,8,0,0,1,1
+20,75,2,2,Maquinista,São Paulo,,1,1,,,1,0,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+21,60,2,2,Cozinheiro,São Paulo,,0,1,,,1,0,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+22,36,1,1,Farmaceutica,São Paulo,,1,1,,,0,3,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+23,53,2,2,Autonomo,Ceará,,1,1,,,0,3,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+24,39,1,2,Escriturária,São Paulo,,1,1,,,1,0,1,1,,0,3,3,1,"pregabalina, nortriptilina",0,,3,1,7,1,8,1,0
+25,31,2,1,Cozinheiro,São Paulo,,1,1,,,0,3,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+26,69,1,2,Dona de casa,São Paulo,,0,1,,,0,0,1,1,,0,2,2,1,dorflex,0,,2,1,6,1,7,1,1
+27,81,1,6,Aposentada,São Paulo,,1,1,,,1,0,1,1,,0,0,4,0,,1,HAS,3,0,0,1,5,0,0
+28,35,1,1,Ass. Administrativo,São Paulo,,1,1,,,1,0,1,1,,0,3,3,1,lirica,0,,2,1,8,1,8,1,0
+29,48,2,2,Analista Fiscal,São Paulo,,1,0,1,Leforte,0,0,1,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+30,57,1,4,Bancaria,Pernambuco,15,1,0,1,Leforte,0,2,0,1,,0,3,0,1,"Amitripitilina, dipirona",0,,3,1,7,0,0,1,0
+31,60,1,4,Professora,São Paulo,,1,1,,,0,2,0,1,,0,2,0,1,gabapentina,1,Herpes Zoster,4,1,6,0,0,0,0
+32,32,1,1,Analista de sistemas,Minas Gerais,5,1,1,,,0,0,1,1,,0,0,0,0,,0,,4,1,4,0,0,0,0
+33,42,1,2,Aux. de Enfermagem,São Paulo,,1,1,,,0,0,1,1,,0,0,0,1,tramal,0,,3,0,0,1,6,2,0
+34,50,2,2,Consultor Juridico,São Paulo,,0,0,2,Samaritano,0,3,0,1,,0,2,2,1,dipirona,1,DM,2,1,8,1,8,1,0
+35,40,2,2,Bibliotecário,São Paulo,,1,1,,,0,3,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+36,57,2,2,Militar,Rio de Janeiro,8,1,0,1,Não se lembra,0,0,1,1,,0,0,2,0,"pregabalina, duloxetina",1,HAS,3,1,3,0,0,1,1
+37,40,2,2,Analista fiscal,São Paulo,,1,0,3,Sta Rita/Edmundo Vasconcelos,0,0,1,1,10,1,2,2,1,"gabapentina, sertralina, lirica",0,,2,1,8,1,8,1,1
+38,27,2,1,Engenheiro Civil,Belem,4,1,0,1,9 de Julho,1,0,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+39,59,1,1,Cabeleleira,São Paulo,,0,0,2,Leforte,0,4,0,1,,0,4,4,0,lirica,1,"Artrose, HAS",4,1,10,1,5,1,0
+40,39,1,2,Enfermeira,São Paulo,,1,0,1,Leforte,0,1,0,1,,0,4,4,1,gabapentina,0,,3,1,6,1,6,1,0
+41,43,2,4,Vendedor,São Paulo,,1,0,1,Leforte,0,0,0,1,,0,4,4,0,,0,,2,0,0,1,8,2,0
+42,31,1,1,Design,São Paulo,,1,1,,,0,3,0,1,,0,0,0,0,,0,,4,0,0,0,0,0,0
+43,89,1,6,Aposentada,São paulo,,1,1,,,1,0,0,1,,0,4,4,1,dorflex,1,"gastrite, artrite",1,1,7,1,7,1,1
+44,35,1,2,Editora de texto,São Paulo,,1,1,,,0,4,0,1,,0,2,2,1,Tilex,0,,2,1,4,1,7,1,0
+45,40,1,2,Costureira,São Paulo,,1,1,,,0,0,0,1,,0,2,2,1,miozan,1,Fibro,2,1,2,1,2,1,0
+46,57,2,2,Bancário,São Paulo,,1,1,,,,,,,,,2,2,0,,1,hipotiroidismo,2,0,0,1,10,2,0
+47,61,1,2,Analista de importação,São Paulo,,1,1,,,1,0,0,1,,,4,4,1,tandrilax,0,,2,1,6,1,6,1,
+48,61,1,2,Aposentada,São Paulo,,,,,,,,,,,,,,,,,,,,,,,,
+49,45,1,2,Analista de Operações,São Paulo,,1,1,,,0,4,0,1,,0,3,0,1,"metadona, tilex, tandrilax",0,,1,1,8,0,0,1,0
+50,30,1,1,Fotografa,São Paulo,,1,0,2,Leforte,0,0,0,1,0,0,1,1,0,,0,,2,1,2,0,0,1,1
+51,48,1,2,Bancaria,São Paulo,,1,0,2,Leforte,0,0,0,1,,0,4,4,1,"miozan, profenid, dipirona",1,HAS,2,1,7,1,8,2,
+52,55,2,2,Aposentado,Rio de Janeiro,,1,1,,,0,0,1,1,10,1,4,0,0,,1,DM,2,1,7,0,0,1,
+53,62,1,2,Dona de casa,São Paulo,,1,0,2,"AACD, HC",0,0,0,1,,0,4,4,1,Diclofenaco,0,,3,1,10,1,10,2,
+54,31,1,1,Aux.de expedição,Bahia,20,1,1,,,0,4,0,1,,0,2,2,1,oxicodona,0,,3,1,7,0,0,1,0
+55,32,1,2,Estudante,São Paulo,,1,1,,,0,0,0,0,,0,2,0,0,,0,,3,,,,,,
+56,64,2,2,Professor,São Paulo,,1,0,2,Leforte,0,0,0,1,,0,2,0,1,"tilex, clorpromazina, zopiden",1,HAS,2,1,5,0,0,1,1
+57,79,2,1,Monge,Minas Gerais,63,1,1,,,0,0,0,1,,0,4,4,0,,1,Chagas,1,0,0,1,7,2,1
+58,35,2,2,Administração,São Paulo,,1,1,,,0,0,0,1,,0,1,1,1,relaxante muscular,0,,4,0,0,0,0,,0
+59,39,2,1,Médico,São Paulo,,1,1,,,0,2,0,1,,0,0,0,0,,0,,4,0,0,0,0,,0
+60,62,1,1,Empresario,São Paulo,,1,1,,,0,0,0,1,,0,4,4,1,amplictil,1,"Artrose, HAS",2,1,6,0,0,1,1
+61,58,2,2,Empresario,São Paulo,,1,1,,,0,2,0,1,,0,2,0,0,,0,,2,1,2,0,0,1,0
+62,72,2,2,Graficoaposentado,São Paulo,,1,1,,,0,0,0,1,,0,0,0,0,,1,Parkinson,2,,,,,,
+63,59,1,2,Medica,Belem,10,1,1,,,0,4,0,1,,0,2,2,0,,0,,2,1,10,1,10,1,0
+64,43,1,2,Autonoma,São Paulo,,1,0,2,Leforte,0,0,0,1,,0,3,3,1,"pregabalina, duloxetina, amplictil",0,,4,1,2,0,0,1,0
+65,57,1,2,Promotora de vendas,São Paulo,,1,1,,,,,,,,,,,,,,,,,,,,,
+66,46,2,1,Tecnica de Enfermagem,São Paulo,,0,0,4,Leforte,0,0,0,1,,1,2,2,1,"metadona, carbamazepina, amplictil, dipirona",0,,2,1,5,1,5,1,0
+67,46,1,2,Vendedora,São Paulo,,1,1,,,0,0,0,1,,0,3,3,1,"oxicotin, tramal, gabapentina, amitriptila, carbamazepina, nortriptilina, fluxetina",0,,1,1,9,1,10,1,0
+68,59,2,2,Operário,Bahia,,1,0,1,Leforte,0,0,1,1,,0,4,4,0,,1,linfoma,1,1,8,1,8,1,0
+69,36,1,2,Terapeuta ocupacional,São Paulo,,1,0,1,Leforte,0,4,1,1,,0,4,4,0,,1,DM,3,1,2,1,1,1,0
+70,64,1,1,Professora,São Paulo,,1,1,,,0,4,0,1,,0,2,2,1,"pregabalina, novalgina",0,,1,1,1,0,0,1,0
+71,36,2,1,Aux. Marketing,São Paulo,,1,0,1,Leforte,0,3,1,1,,0,2,2,0,,0,,3,1,1,1,1,1,0
+72,47,2,2,Tec. Laboratório,São Paulo,,0,1,0,,0,0,0,1,,0,2,0,0,,0,,1,1,3,0,0,1,0
+73,38,2,1,Tec. Informatica,São Paulo,,1,1,,,0,0,0,1,,0,4,4,1,"tramal, novalgina",1,HAS,2,0,0,0,0,1,0
+74,41,1,2,Advogada,São Paulo,,1,1,,,0,0,0,1,,0,1,1,0,,0,,4,0,0,0,0,1,0
+75,45,1,2,Biologa,São Paulo,,1,0,1,Leforte,0,2,0,1,,0,4,4,1,gabapentina,1,HAS,4,0,0,0,0,1,0
+76,46,2,2,Advogado,São Paulo,,1,1,,,0,0,0,1,,0,2,1,0,,0,,2,1,3,1,3,1,1
+77,72,1,1,Aposentada,São Paulo,,1,1,,,1,0,0,1,,0,4,4,1,"amitriptilina,ga",1,fibro,2,1,6,1,5,1,1
+78,46,1,2,Empresaria,São Paulo,,1,0,3,Leforte,0,0,0,1,,0,4,4,1,"amitriptilina, duloxetina, retard",0,,1,1,4,1,4,1,1
+79,36,1,1,Analista,Teresina,,1,1,,,0,4,0,1,,0,2,2,1,tandrilax,0,,2,1,6,0,0,1,0
+80,31,2,1,Autonomo,São Paulo,,1,0,1,Leforte,0,3,0,1,,0,2,2,1,"tramadol, simbalta",0,,1,1,4,1,5,1,0
+81,31,1,2,Estagiaria,São Paulo,,1,1,,,0,3,0,1,,0,2,0,0,,0,,4,1,10,0,0,1,0
+82,85,1,3,Aposentada,São Paulo,,1,1,,,0,0,0,0,,0,2,0,1,dipirona,1,HAS,2,1,5,0,0,1,1
+83,34,1,2,Professora,São Paulo,,1,1,,,0,2,0,1,,0,2,0,0,,0,,4,1,1,0,0,1,0
+84,60,1,1,Professora,São Paulo,,1,1,,,0,3,0,1,,0,4,0,1,dorflex,0,,1,1,8,0,0,1,0
+85,40,2,1,Ger. de Tecnologia,São Paulo,,1,1,,,0,3,0,1,,0,4,4,1,"restiva, metadona, pregabalina, quetiapina",0,,2,1,6,0,0,1,0
+86,72,1,3,Administradora,São Paulo,,1,0,1,Leforte,1,0,0,1,,0,0,0,0,,1,HAS,4,0,0,0,0,,
+87,71,2,2,Auditor,São Paulo,,1,0,1,AACD,1,0,0,1,,0,3,0,0,,1,HAS,1,0,0,0,0,1,0
+88,61,1,1,Aposentada,São Paulo,,1,1,,,1,0,0,1,,0,4,1,0,,0,,2,1,4,0,0,1,0
+89,45,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,
+90,49,1,6,Atendente,São Paulo,,1,1,,,0,3,0,1,,0,2,0,1,dorflex,0,,2,1,8,0,0,1,0
+91,,1,1,,São Paulo,,1,0,1,Leforte,1,0,0,1,,0,4,4,1,novalgina,0,,2,1,3,0,0,1,
+92,64,1,1,Aposentada,São Paulo,,1,1,,,1,0,0,1,,0,0,0,0,,0,,4,0,0,0,0,,
+93,29,2,1,Op. de Logistica,São Paulo,,0,1,,,0,3,0,1,,0,2,0,1,Dipirona,0,,2,1,6,0,0,1,0
+94,36,1,1,Exec. de Vendas,São Paulo,,1,0,3,Sirio e 9 de Julho,0,0,0,1,,0,4,4,1,"metadona, amitriptilina, pregabalina",1,HAS,2,1,6,1,6,1,0
+95,55,1,1,Op. de Marketing,São Paulo,,1,1,,,0,0,0,1,,0,2,2,1,nao se lembra,1,HAS,2,1,6,1,5,1,0
+96,52,1,2,Costureira,Bahia,47,0,1,,,0,0,0,1,,0,2,2,1,,1,HAS,2,1,7,1,7,1,0
+97,51,1,1,Do lar,São Paulo,,1,1,,,0,0,0,1,,0,4,0,1,"cortizona, tramal, gabapentina",1,Lupus,1,1,6,0,0,1,0
+98,55,1,3,Do lar,São Paulo,,1,0,1,Leforte,0,0,0,1,,0,4,4,1,nao se lembra,0,,2,1,6,1,6,1,0
+99,55,2,3,Motorista,Bahia,30,1,1,,,0,0,1,1,,0,4,0,1,"dipirona, tramadol, carbamazepina",1,HAS,2,1,4,0,0,1,0
+100,68,1,6,Aposentada,São  Paulo,,1,1,,,1,0,0,1,,0,0,0,1,,0,,0,0,0,0,0,,0
+101,37,2,1,Analista de Sistemas,Ceara,,1,1,,,0,0,0,1,,0,2,2,1,"tramal, morfina, paracetamol, gabapentina",1,,1,1,10,1,10,1,0
+102,43,2,1,Vendedor,São Paulo,,1,0,1,Leforte,0,3,0,1,,0,4,4,1,não relatou,1,,3,1,5,0,0,1,1
+103,59,1,2,Cabeleleira,São Paulo,,0,0,1,Leforte,0,4,0,1,,0,4,2,1,Lyrica,0,,1,0,0,1,8,2,1
+104,54,1,1,Supervisora de monitoramaento,São Paulo,,1,1,,,0,3,0,1,,1,3,3,1,,1,não soube especificar,1,1,2,1,7,2,1
+105,34,1,1,Dentista,São Paulo,,1,0,1,Leforte,0,3,0,1,,0,4,0,1,novalgina,0,,4,1,7,0,0,1,0
+106,70,1,1,Domestica,Bahia,50,1,1,,,0,0,0,1,,0,4,4,1,nao se recordou,1,HAS,3,1,4,1,4,1,1
+107,38,1,1,Domestica,São Paulo,,1,1,,,0,0,0,1,,0,4,4,1,dorflex,0,,3,1,7,1,5,1,0
+108,68,2,1,Engenheiro,São Paulo,,1,1,,,0,0,0,1,,0,,,,,,,,,,,,,
+109,58,1,6,Empresária,São Paulo,,0,0,1,Hosp. 9 de julho,0,4,0,1,,0,4,4,1,"Tramal, novalgina, dipirona",0,,2,1,10,1,9,1,0
+110,63,2,3,Quimico,São Paulo,,0,1,,,0,1,0,1,,0,4,4,1,,,,2,1,8,1,8,2,0
+111,30,1,2,Prof. Educação fisica,São Paulo,,1,0,1,Sta Casa  Vinicius,0,2,0,1,,0,4,4,1,,0,,4,0,0,0,0,0,0
+112,52,2,1,Veterinaria,São Paulo,,1,1,,,0,4,0,1,,1,4,4,1,"novalgina, tylenol",1,"trombose, diverticulite, asma",2,1,7,1,10,2,1
+113,53,1,2,Aux. tabelionato de protesto,São Paulo,,1,1,,,0,1,0,1,,0,3,3,1,,0,,2,0,0,1,3,2,0
+114,45,1,1,Domestica,São Paulo,,1,1,,,0,3,0,1,,0,4,4,1,nao informou,0,,2,1,10,1,8,1,0
+115,79,1,2,Monge Catolico,Minas gerais,60,1,1,,,1,2,0,1,,0,4,4,1,,1,Chagas,1,,,,,1,1
+116,39,1,1,Copeira,Pernambuco,20,1,0,1,não se lembra,1,0,1,1,1.6,0,3,3,1,,0,,1,1,8,1,6,1,
+117,24,2,2,Ass. ADM,São Paulo,,1,1,,,0,3,0,1,,0,,,,,,,,,,,,,
+118,81,1,6,Aposentada,São Paulo,,0,1,1,Leforte,1,0,0,1,,0,4,0,1,Mioflex,0,,1,1,7,0,0,1,
+119,65,1,6,Aposentada,São Paulo,,1,0,4,Metropolitano,1,0,0,1,,0,4,4,1,"Dorene, lisador, dipirona +tramal",1,Hipotiroidismo,1,1,10,1,10,2,1
+120,49,1,1,Professora,São Paulo,,0,1,,,0,3,0,1,,0,4,4,1,"gabapentina, paracetamol, tylex",0,,4,1,3,0,0,1,0
+121,67,1,3,Aposentada,Amapa,8,1,0,4,Leforte,1,0,0,1,,0,4,0,1,"Gabapentina, baclofeno, imipramina, lamotrigina",1,"HAS, nao anda",,1,7,0,0,1,1
+122,77,1,3,Psicologa,São Paulo,,1,1,,,1,2,0,1,,0,2,2,1,,1,Parkinson,1,1,8,1,8,,0
+123,65,2,1,Empresaria,São Paulo,,1,1,,,0,3,0,1,,0,4,4,1,miozan,1,HAS,3,1,8,1,7,1,0
+124,41,2,1,Pedreiro,Bahia,,1,0,1,Paulistano,0,0,0,1,,0,4,4,1,tilex,0,,1,1,10,1,8,1,1
+125,54,1,1,Bancaria,São Paulo,,1,0,1,Hosp.Vila Lobos,0,4,0,1,,0,4,0,1,tramal,1,"Bronquite, depressão",2,1,10,0,0,1,0
+126,57,2,1,Escrivão,Rio de Janeiro,30,0,1,,,0,4,0,1,,0,2,2,1,dorflex,0,,2,1,8,1,9,2,0
+127,73,2,1,Aposentado,Parana,48,1,1,,,1,0,0,1,,0,1,0,1,não se lembra,1,HAS,,1,4,1,5,1,1
+128,64,1,1,Domestica,Rio de Janeiro,30,1,1,,,0,0,0,1,,0,0,0,1,"lyrica, Amitril",1,HAS,4,0,0,0,0,0,
+129,52,1,1,Professora,São Paulo,,1,1,,,1,0,0,1,,0,4,0,1,"Pregabalina, amplictil, amitriptilina",0,,2,1,8,1,8,1,1
+130,42,2,1,Administrador,São Paulo,,1,0,1,não se recorda,1,1,0,1,,0,4,4,1,,0,não anda,0,1,3,0,0,1,0
+131,22,1,2,Nutricionista,Espirito Santo,4,1,1,,,0,0,0,1,,0,2,0,0,,0,,3,1,8,0,0,1,0
+132,51,2,1,Arquiteto,Bahia,46,1,1,,,0,3,0,1,,0,2,2,1,nao se lembra,1,"HAS, DM",2,1,7,0,0,2,0
+133,42,2,1,Montador,São Paulo,,1,0,1,SBC,0,3,0,1,,0,4,4,1,"metadona, venlafaxinan, gabapentina",0,,2,0,0,0,0,0,0
+134,48,1,1,Professora,São Paulo,,1,1,,,0,3,0,1,,0,2,2,0,,1,"HAS, DM",4,0,0,0,0,0,0
+135,52,2,2,Mulifuncional,São Paulo,,1,1,0,,0,2,0,1,,0,0,4,1,Vliga,0,,2,0,0,,,,0
+136,72,1,1,Administrador,São Paulo,,1,0,1,BP,1,1,0,1,,0,1,1,0,,1,"HAS,DM",1,0,0,0,0,1,0
+137,49,1,1,Funcionario Adm,Bahia,36,1,1,0,0,1,,,,,0,2,4,1,"Tilex,Dipirona",0,1,,1,6,1,3,,1
+138,72,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,
+139,67,1,5,Aposentado,São Paulo,,1,,,,,,,,,,,,,,,,,,,,,,
+140,42,1,2,Enfermeira,São Paulo,,1,0,4,Leforte,0,,0,1,,0,,,1,"Clonazepam 2mg,Sertralina 150mg,Amitriptilina 50mg,Clorpromazina 25mg,Zoldipem 10mg",1,Cefaleia,,0,0,0,0,,0
+141,23,1,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,4,0,1,"Gestrina,Pregabalina,Venlafixina",0,,,1,9,0,0,1,0
+142,54,1,2,Outros,São Paulo,,1,0,1,Hospital Vila Lobos,0,,0,1,,0,,,1,"Mitrul 15mg, Escitalopram 20mg,Duloxetina 60mg",1,Deporessão,,1,,0,0,1,0
+143,49,2,1,Funcionario Publico Federal,São Paulo,,1,0,1,Leforte,0,,0,1,,0,,,1,"Venlafaxina 150mg,Dipirona,Tramadol 50mg,Clopromazina 8 gtas",1,Cefaleia,,1,4,1,6,1,0
+144,28,1,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Diamox 250mg, Topiramato 50mg",1,"Cefaleia,Alteração visuasl",,0,0,0,0,,0
+145,35,1,1,Outros,São Paulo,,1,1,0,,1,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+146,81,1,6,Aposentado,São Paulo,,1,0,4,Leforte,0,,0,1,,0,,,1,"Fluoxetina 200mg,Pregabalina 25mg,Dorflex,Puran,Atenolol,sivastatina,AAS,Losartana",0,,,0,,0,0,,
+147,43,1,2,Do lar,São Paulo,,1,0,3,Leforte,0,,0,1,,0,,,1,"Mitrul 15mg,Pregabalina 225mg,Duloxetina 60mg",0,,,0,,0,0,,0
+148,35,1,2,Sem profissão,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,1,Hernia de Disco Cervival,,0,,0,0,,
+149,37,2,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,Oxcarbamazepina 300mg,0,,,0,,0,0,,0
+150,24,2,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Sertralina 50mg,Ritalina",0,,,0,,0,0,,0
+151,64,1,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,Dorflex,0,,,0,,0,0,,0
+152,54,1,1,Sem profissão,São Paulo,,1,1,0,,0,,0,1,,0,,,,Paracetamol 750mg,0,,,0,,0,0,,
+153,52,1,1,Cozinheiro,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Duloxetina 30mg, Addera D3,Levotiroxina 50mcg",0,,,0,,0,0,,0
+154,41,2,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,Duloxetina 60mg,1,"Hipotiroidismo,Doença reumatolog",,0,,0,0,,0
+155,51,2,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Pregabalina 75mg,Amitripytilina 10mg, Ciclobenzaprina,Tramadol",0,,,1,,0,0,,0
+156,73,2,1,Sem profissão,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Pregabalina 50mg,Amitripitilina 25mg,Etna,AAS,Glicazida,Losartana,",1,"DM,Retiopatia diabetica",,1,,1,,,
+157,39,1,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Sertralina 50mg, Risperidona 2mg",0,,,1,,0,0,,0
+158,57,1,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Duloxetina 60mg,Pregabalina 75mg,Depakote 250mg,Vitamina D,Milagama,Daflon,Pantopra",0,,,0,,1,,,0
+159,39,1,1,Auxiliar Adm,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,1,,0,0,,0
+160,39,2,2,Impressor,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Clopromazina 25mg,Pregabalina 150mg,Carbonato de littio,Nortriotilina 5omg,Clonazep",1,"DM,SD fibro",,0,0,0,0,,
+161,70,1,2,Empregado domestico,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,1,,0,,1,0
+162,46,1,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Gabapentina 300mg,Clorpromazima,Metadona,Tramadol,Nortriplina,Sibutramina,Puran,Met",1,"Transtorno de Humor,Fratura no t",,0,0,0,0,,0
+163,29,1,1,Operador Telemarketin,São Paulo,,1,1,0,,0,,,1,,0,,,1,Enxak,0,,,0,0,0,0,,
+164,24,1,1,Tec. enfermagem,São Paulo,,1,0,1,Nipo Brasileiro,0,,0,1,,0,,,0,,1,Cefaleia Cronica,,1,,0,0,,
+165,26,1,1,Tec. enfermagem,São Paulo,,1,0,1,Leforte,,,,,,,,,1,"Escitaptilina,metadona,propanolol",1,"Cefaleia,",,0,0,0,0,,
+166,59,1,5,Outros,São Paulo,,1,0,2,Leforte,0,,0,1,,0,,,1,"Clorpromazina,Tramadol,Metadona",0,,,1,,0,0,1,0
+167,46,2,1,Outros,São Paulo,,1,0,1,Leforte,0,,0,1,,0,,,1,"Metadona,Cloroprimazina,Gabapentina,,Dipirona",0,,,0,0,1,5,1,0
+168,55,1,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,nimesulida,1,cefaleia,,0,0,0,0,,0
+169,39,2,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,Tandrilax,0,,,0,0,0,0,,
+170,30,1,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+171,62,1,2,Do lar,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+171,66,2,1,Aposentado,São Paulo,,1,0,1,Hospital São CamiloSantana,1,,0,1,,0,4,,0,,1,HAS e DM,,1,,0,0,,
+173,59,1,1,Cabeleleira,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+174,40,2,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,Analgesicos para dor Aguda,0,,,1,,0,0,1,0
+175,31,2,1,Func.publico,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Pregabalina 75mg,Dippirona",0,,3,1,,0,0,1,0
+176,30,1,1,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+177,45,1,1,Gerente admin,São Paulo,,1,0,1,Leforte,0,,0,1,,0,,,,,0,,,,,,,,0
+178,48,1,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,1,Has e Pré DM,3,1,,0,0,1,0
+179,47,1,2,Diretora da empresa,São Pauo,,1,1,0,,0,,0,1,,0,,,0,,1,Cefaleia,,0,0,0,0,,0
+180,38,1,1,Analista de Suporte de sistemas,São Paulo,,1,0,1,Leforte,0,,0,1,,0,,,0,,0,,3,0,0,0,0,,0
+181,72,2,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Sertralina 50mg,Zolpidem 10mg,Prolopa 200/50",0,"Parkison,HAS,TCE",,0,0,0,0,,0
+182,62,1,1,Outros,São Paulo,,1,0,1,Leforte,0,,0,1,,0,,,0,,1,Dor Cervical Cronica,,0,0,0,0,,0
+183,21,1,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Gabapentina 300mg,Venlafaxina 150mg,xarelto 20mg,Prednisona 10mg,Cloroquina 400mg,T",0,,,0,3,0,0,1,0
+184,52,2,2,Veterinario,São Paulo,,1,1,0,,0,,0,1,,0,,,1,"Gabapentina,Morfina 10mg,Clorpomazina 25mg",1,"HIV,DM",,0,0,0,0,,0
+185,29,2,1,,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,
+186,31,2,1,Advogado,São Paulo,,1,0,2,Leforte,0,,0,1,,0,,,1,Duloxetina 60mg,0,,,0,0,0,0,,0
+187,36,1,1,,São Paulo,,1,0,5,Leforte,,,,,,,,,1,"Amitriptilina 25mg,Pregabalina 100mg,Metadona,Clonazepam,Venlafaxina",0,,,1,7,1,8,,
+188,55,1,2,Do lar,São Paulo,,1,0,2,Lefforte,0,,0,1,,0,,,1,"Duloxetina 60mg,Clonazepam 2mg,Amitriptilina,Levotiroxina 50mg,Tylex e lisador",0,,,1,5,1,7,,0
+189,47,2,5,Tec.laboratorio,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,3,0
+190,55,2,3,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+191,46,2,1,Comerciante,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+192,59,1,2,Enfermeiro,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,1,"HAS,DLP,Arritimia",,0,0,0,0,,0
+193,58,1,6,Do lar,São Paulo,,1,0,1,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+194,49,1,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,0,,,0,0,0,0,,0
+195,38,1,2,Outros,São Paulo,,1,1,0,,0,,0,1,,0,,,0,,1,Hipotireodismo,3,0,0,0,0,,0
+196,64,1,2,Outros,São Paulo,,1,0,1,,0,,0,1,,,,,,,,,,,,,,,
+197,34,1,2,Outros,São Paulo,,1,,,,,,,,,,,,,,,,,,,,,,
+198,64,1,2,Auxiliar Enf,São Paulo,,1,,,,,,,,,,,,,,,,,,,,,,
+199,42,2,2,Montador de intrumentos,São Paulo,,1,,,,,,,,,,,,,,,,,,,,,,
+200,69,1,2,Empresario,São Paulo,,1,,,,,,,,,,,,,,,,,,,,,,
+201,67,1,5,Aposentada,São Paulo,,,,,,,,,,,,,,,,,,,,,,,,0
+202,30,1,,Tec.enfermagem,São Paulo,,1,,,,,,,,,,,2,1,Tilex,0,,,,,1,5,,0
+203,59,1,,Do lar/tec enfermagem,São Paulo,,1,0,2,Atrodeze,0,,0,1,,,,,0,,0,,,,,,,,0
+204,,2,,ADM,São Paulo,,1,0,1,,0,,0,1,,,,,1,"Tonogesic,Oxicotin",,,,1,,,7,1,0
+205,,1,,Aposentado,São Paulo,,1,,,,1,0,0,1,,,,,,,1,"DM,HAS, Hipotiroidismp",2,1,6,1,6,1,0
+206,,1,,Aposentado Auxiliar de enfer,São Paulo,,1,0,1,Sta Helena,1,0,0,1,,0,2,0,1,"Tramal,codein",1,Pré Diabética,4,1,7,0,0,1,0
+207,,1,,Aposentada,São Paulo,,,1,0,,1,0,0,1,,0,,,,,1,HAS,,1,10,0,0,1,0
+208,,1,,Desempregado,São Paulo,,1,0,2,"HC,Paiva",0,0,0,1,,0,4,0,1,"Morfina,Pregabolina",0,,,1,,0,0,1,1
+209,,1,,,São Paulo,,,0,2,,,,,,,0,4,0,1,"Tramal,Amitriptilina,Metiforina,formulação que o endocrino passou",1,Artrose,,1,7,0,0,1,0
+210,,1,,Desempregada Gerente de Empres,São Paulo,,,0,3,,0,0,0,1,,0,,,1,"Denorem 50, xcitolopran 10",0,,,1,4,0,0,1,0
+211,,1,,,São Paulo,,,0,1,Leforte,,,,,,0,,,,"Tramal,Amit,Dipirona",,,,1,8,,,3,0
+212,,1,,Desempregado,São Paulo,,,1,0,,0,0,0,1,,0,,,1,"Tramal,Lyrico 75mg",,,,1,4,0,0,,0
+213,,1,,Telemarkting,São Paulo,,,1,0,,0,,0,1,,0,,,1,"Amitriptilina,Morfina",1,"Anemia Falsiforme, HAS pulmonar,",,0,0,0,0,,0
+214,,2,,,São Paulo,,,1,0,,,,,,,0,,,1,Oxcarbomazepino 30mg,1,"Dor Neuropatica,lesão de cauda",,,,,,,0
+215,,2,,Estudante,São Paulo,,,1,0,,0,0,0,1,,0,4,0,0,,0,,,1,,0,0,1,0
+216,,2,,Engenheiro,São Paulo,,,1,0,,0,,0,1,,0,4,0,1,Tonagesic,0,,,1,5,0,0,1,0
+217,,1,,,São Paulo,,,0,1,Leforte,,,,,,,,,1,"Morfina 10mg, Pregab 75mg, Clonozep 2mg",0,,,,,,,,0
+218,,2,,,São Paulo,,,1,0,,,,,,,,,,,,,,,1,8,0,0,1,0
+219,,1,,,São Paulo,,,1,0,,,,,,,,,,,,,,,,,,,,0
+220,,1,,,São Paulo,,,1,0,,,,,,,,,,1,"Tilex,Gabapentina",,,,1,6,0,0,1,0
+221,,1,,,São Paulo,,,1,0,,,,,,,,,,1,Dipirona,,,,0,0,0,0,,0
+222,,1,,,São Paulo,,,1,0,,,,,,,,,,1,"Pantoprazol,Mivigama",,,,1,6,0,0,1,0
+223,,1,,,São Paulo,,,0,1,Edm Vasconcelos,,,,,,,,,0,,,,,,,,,,0
+224,,1,,,São Paulo,,,1,0,,,,,,,,,,1,"Tramal,rofenid,Dipirona",,,,,,,,,0
+225,,2,,,São Paulo,,,1,0,,,,,,,,,,,,1,"Has, Parkinson",,,,,,,0
+226,,2,,,São Paulo,,,1,0,,,,,,,,4,,1,"Prigabalina,Musculare",,,,1,,,,,0
+227,,1,,,São Paulo,,,1,0,,,,,,,,,,1,"Amitripitilina,Duloxetrina,prega,Amplietil,Metadona",,,,1,2,0,0,,0
+228,,2,,,São Paulo,,,1,0,,,,,,,,4,4,,,,,,,,,,,0
+229,,1,,,São Paulo,,,1,0,,,,,,,,,,1,Duloxetina,,,,,,,,,0
+230,,1,,,São Paulo,,,1,0,,,,,,,,,,1,"Esomeprazol,Dipirona,Atenolol,Vytonin",,,,,,,,,0
+231,,1,,,São Paulo,,,1,0,,,,,,,,,,1,Carbomozepino 100mg,1,"Hepatite curada, DM por Corticoi",,,,,,,0
+232,,1,,,São Paulo,,,1,0,,,,,,,,,,,,1,Trombo pulmonar,,1,8,0,0,1,0
+233,,1,,,São Paulo,,,1,0,,,,,,,,,,1,"Tramadol,Mitul",,,,1,10,1,10,1,0
+234,,2,,,São Paulo,,,1,0,,,,,,,,,,,,1,"Lesão em C5,lado esquerdo irradi",,,,,,,0
+235,,2,,,São Paulo,,,1,0,,,,,,,,,,1,"Carbamazepina, Topetrol",,,,,,,,,0
+236,,1,,,São Paulo,,,1,0,,,,,,,,4,4,1,Dorflex,,,,,,,,,0
+237,,2,,,São Paulo,,,1,0,,,,,,,,,,1,Lomobrina 100mg,,,,,,,,,0
+238,,1,,,São Paulo,,,1,0,,,,,,,,,,1,"Novalgina,Gabapentina,cadein",1,"Has, DM",,1,9,0,0,1,0
+239,,1,2,Assesorista,São Paulo,,0,1,0,,0,,1,1,,,,,1,Dipirona,0,,,1,9,0,0,1,0
+240,,1,2,Autonomo,São Paulo,,1,1,0,,0,,0,0,,,,,0,,0,,,0,0,0,0,,0

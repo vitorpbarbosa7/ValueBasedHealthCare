@@ -1,0 +1,22 @@
+﻿Binaria,Ordinal,rpb,Bin_0,Bin_1,Missing
+Dor nas costas,Intensidade da dor nas costas,0.9999,69,112,0
+Dor nas pernas,Intensidade da dor nas pernas,0.9999,138,63,1
+Dor nas costas,BPI_6_v1,0.980412948,36,91,4
+Dor nas pernas,Tempo com a dor que irradia para as pernas,0.783017513,78,57,6
+Dor nas costas,Tempo com a dor nas costas,0.694225181,37,100,5
+Lombalgia,Tempo com a dor nas costas,0.566037439,69,62,11
+Dor nas pernas,Qtde de cirurgias na coluna,0.519767457,93,32,21
+Lombalgia,BPI_6_v1,0.517612138,69,62,0
+Lombalgia,Qtde de cirurgias na coluna,0.514526836,23,28,95
+Lombalgia,Intensidade da dor nas pernas,0.503584404,66,61,75
+Lombalgia,Intensidade da dor nas costas,0.494060717,67,61,53
+Lombalgia,Tempo com a dor que irradia para as pernas,0.489404496,69,62,10
+Dor nas pernas,Intensidade da dor nas costas,0.48673037,117,62,2
+Dor nas pernas,BPI_6_v1,0.461207682,72,55,4
+Lombalgia,SF12_M1_5_v1,-0.464982815,68,61,103
+Lombalgia,Quantos metros consegue andar em velocidade normal,-0.465011842,69,60,6
+Dor nas pernas,Quantos metros consegue andar em velocidade normal,-0.471574958,76,55,4
+Lombalgia,SF12_M1_6_v1,-0.472819193,68,61,103
+Lombalgia,SF12_M1_3_v1,-0.475797276,68,61,103
+Lombalgia,SF12_M1_7_v1,-0.490186399,68,61,103
+Lombalgia,SF12_M1_4_v1,-0.511817007,68,61,103

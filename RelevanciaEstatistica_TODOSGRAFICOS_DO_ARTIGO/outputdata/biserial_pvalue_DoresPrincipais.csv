@@ -1,0 +1,11 @@
+"Binaria","Ordinal","rpb","pvalue","Bin_0","Bin_1","Missing"
+"Cirurgia na coluna","Quantidade de cirurgias na coluna",0.863549537927935,2.8321779413093e-19,75,55,16
+"Dor nas costas","Tempo com a dor nas costas",0.6942251806513,9.87601917593397e-11,37,100,5
+"Dor nas costas","Intensidade da dor no momento",0.980412947800817,5.59890763225349e-23,36,91,4
+"Dor nas pernas","Quantidade de cirurgias na coluna",0.519767457414949,1.02870712673533e-05,93,32,21
+"Dor nas pernas","Tempo com dor que irradia p/ as pernas",0.78301751266349,1.0155382984486e-15,78,57,6
+"Lombalgia","Quantidade de cirurgias na coluna",0.514526835671869,0.00285262007560319,23,28,95
+"Lombalgia","Tempo com a dor nas costas",0.566037439084307,6.32164707437405e-08,69,62,11
+"Lombalgia","Intensidade da dor nas pernas",0.503584403716498,2.86993700888403e-06,66,61,75
+"Lombalgia","Intensidade da dor no momento",0.517612138072164,9.6870651541665e-07,69,62,0
+"Lombalgia","SF12_M1_4_v1",-0.511817007450052,1.58842704489856e-06,68,61,103
